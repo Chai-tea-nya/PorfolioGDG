@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chaitanya Chavan",
-  firstName: "Chaitanya",   // Used in the hero greeting
-  lastName: "Chavan",      // Displayed large in the hero section
+  name: "Chatudi Halyahoki",
+  firstName: "Chatudi",   // Used in the hero greeting
+  lastName: "Halyahoki",      // Displayed large in the hero section
   tagline: "Crying",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -38,14 +38,14 @@ When I'm not coding, you'll find me playing chess, crocheting or crying.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 1 },
-    { name: "JavaScript", level: 2 },
+    { name: "HTML & CSS", level: 0 },
+    { name: "JavaScript", level: 0 },
     { name: "Python", level: 3 },
     { name: "C / C++", level: 3 },
-    { name: "React.js", level: 1 },
+    { name: "React.js", level: 0 },
     { name: "Git & GitHub", level: 2 },
-    { name: "SQL / MySQL", level: 1 },
-    { name: "Java", level: 1 },
+    { name: "SQL / MySQL", level: 0 },
+    { name: "Java", level: 0 },
   ],
 
   // ----------------------------------------------------------
