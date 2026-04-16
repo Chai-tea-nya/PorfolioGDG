@@ -12,18 +12,18 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chatudi Halyahoki",
-  firstName: "Chatudi",   // Used in the hero greeting
-  lastName: "Halyahoki",      // Displayed large in the hero section
-  tagline: "Crying",
+  name: "Chaitanya Chavan",
+  firstName: "Chaitanya",   // Used in the hero greeting
+  lastName: "Chavan",      // Displayed large in the hero section
+  tagline: "Learning",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about sleeping on things that live on the internet. I love exploring new technologies, writing working code, and turning ideas into daydreams. 
-When I'm not coding, you'll find me playing chess, crocheting or crying.`,
+    description: `I'm a Second Year Engineering student passionate and cuirous about physics, with interest in all domains of engineering. 
+When I'm not studying, you'll find me playing chess, crocheting or reading books.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
@@ -97,22 +97,22 @@ When I'm not coding, you'll find me playing chess, crocheting or crying.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
+      degree: "B.E. in Robotics and Automation",
       institution: "Savitribai Phule Pune University",
       duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      description: "Currently in Second Year. CGPA: 9.05 / 10",
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "Nowrosjee Wadia College, Pune",
       duration: "2022 – 2024",
-      description: "Science stream with Computer Science. Scored 89%.",
+      description: "Science stream with Electronics. Scored 82%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "Stella Maris School, Pune",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 96% with distinction.",
     },
   ],
 
@@ -123,26 +123,26 @@ When I'm not coding, you'll find me playing chess, crocheting or crying.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "cmchavan13064@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/chinmayingle26",
+        url: "https://github.com/chai-tea-nya",
         icon: "github",
       },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com/in/chinmayingle",
+        url: "https://linkedin.com/in/chaitanya-chavan-903403314/",
         icon: "linkedin",
       },
       {
         platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
+        url: "#",
         icon: "twitter",
       },
       {
         platform: "Instagram",
-        url: "https://instagram.com/chinmayingle",
+        url: "#",
         icon: "instagram",
       },
     ],
@@ -154,7 +154,7 @@ When I'm not coding, you'll find me playing chess, crocheting or crying.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#ffb700",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#d9b500",   // Darker shade for hover states
   },
 };
